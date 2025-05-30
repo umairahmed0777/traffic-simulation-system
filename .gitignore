@@ -1,0 +1,20 @@
+# macOS system file
+.DS_Store
+
+# Compiled binaries
+*.o
+*.out
+*.exe
+
+# Build folders
+build/
+bin/
+obj/
+
+# Analytics or generated logs
+analytics.txt
+
+# Backup files
+*~
+*.swp
+
